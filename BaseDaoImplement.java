@@ -1,0 +1,11 @@
+package UserLogin;
+
+public class BaseDaoImplement {
+	
+	/**
+	 * 下为SQL的错误码
+	 */
+	//MySql重复插入的错误码
+	public static final int SQL_ERROR_CODE_DUPLICATE = 1062;
+
+}
